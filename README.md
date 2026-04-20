@@ -4,14 +4,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Pradyuman%20Sharma&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20System%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=a78bfa" />
 
 <!-- Typing Animation -->
-<a href="https://tech-pradyuman.vercel.app/">
+<a href="https://developer-pradyumanx.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+production+systems;Full+Stack+%7C+Cloud-Native+%7C+SaaS;Clean+architecture+%2B+strong+DSA;Turning+ideas+into+real+products" alt="Typing SVG" />
 </a>
 
 <br />
 
 <!-- Profile Badges -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tech--pradyuman.vercel.app-8b5cf6?style=for-the-badge&logoColor=white)](https://tech-pradyuman.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-developer--pradyumanx.vercel.app-8b5cf6?style=for-the-badge&logoColor=white)](https://developer-pradyumanx.vercel.app/)
 [![Email](https://img.shields.io/badge/📧_Email-pradyumansharma%40outlook.in-6d28d9?style=for-the-badge&logoColor=white)](mailto:pradyumansharma@outlook.in)
 [![GitHub](https://img.shields.io/badge/GitHub-Pradyumansharma444-24243e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pradyumansharma444)
 
